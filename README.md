@@ -27,5 +27,6 @@ This project is open-source and available under the MIT License.
 
 If you’re interested in developing this kind of dashboard and/or analyzing your data, please don’t hesitate to get in touch – it would be great to exchange opinions, and I’d like to hear what is done in this area by other specialists! 🙌
 
-
+# Linkedin
+https://www.linkedin.com/in/ahmed-abdelrahman-57b32b342/
 ![Bike Sales](https://github.com/user-attachments/assets/d1f6600e-cb28-4333-bb11-900de07f3945)
