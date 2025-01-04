@@ -17,4 +17,5 @@ https://github.com/AhmedAbdulrahmann
 
 If you’re interested in developing this kind of dashboard and/or analyzing your data, please don’t hesitate to get in touch – it would be great to exchange opinions, and I’d like to hear what is done in this area by other specialists! 🙌
 
-hashtag#Excel hashtag#Dashboard hashtag#DataVisualization hashtag#DataAnalytics hashtag#Sales hashtag#ExcelTips hashtag#DataDriven hashtag#LearningByDoing
+
+![Bike Sales](https://github.com/user-attachments/assets/d1f6600e-cb28-4333-bb11-900de07f3945)
